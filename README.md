@@ -29,9 +29,11 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) sy
 
   ├── ComplicationsofDiabetes.txt           # Complications of Diabetes
 
-├── requirements.txt    # Python dependencies
+├── requirements.txt                        # Python dependencies
 
-└── README.md           # Project documentation
+├── RAG_Mistral_Llama_index.webm            # Demo video
+
+└── README.md                               # Project documentation
 
 # ⚙️ **Installation**
 
@@ -87,6 +89,9 @@ SymptomsandDiagnosisofDiabetes.txt – Symptoms and Diagnosis
 ManagementofDiabetes.txt – Management of Diabetes
 
 ComplicationsofDiabetes.txt – Complications of Diabetes
+
+# 🎥 Demo
+Check out the demo video showcasing the bot in action: [Demo_Video](RAG_Mistral_Llama_index.webm)
 
 # ⚠️ Disclaimer
 
