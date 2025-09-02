@@ -23,7 +23,7 @@ if api_key:
 
     # Load documents (4+ domain-specific files)
     st.write("Loading and indexing documents... ⏳")
-    reader = SimpleDirectoryReader(input_dir="./data")
+    reader = SimpleDirectoryReader(input_dir="./Docs")
     documents = reader.load_data()
 
     # Create vector index
@@ -45,3 +45,4 @@ if api_key:
             st.markdown("### 📄 Sources")
             for src in response.source_nodes:
                 st.write(f"- {src.node.metadata.get('file_name', 'Unknown file')}")
+
