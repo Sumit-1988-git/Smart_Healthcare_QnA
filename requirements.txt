@@ -1,1 +1,2 @@
-pip install llama-index llama-index-llms-mistralai llama-index-embeddings-mistralai mistralai==0.4.2
+!pip install --upgrade pip
+!pip install llama-index==0.10.55 llama-index-llms-mistralai==0.1.18 llama-index-embeddings-mistralai mistralai==0.4.2
