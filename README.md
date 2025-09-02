@@ -19,13 +19,15 @@ This project demonstrates how to build a Retrieval-Augmented Generation (RAG) sy
 
 ├── app.py              # Main Streamlit application
 
-├── doc1.txt            # Introduction to Diabetes
+├── Docs
 
-├── doc2.txt            # Symptoms and Diagnosis
+  ├── IntroductiontoDiabetes.txt            # Introduction to Diabetes
 
-├── doc3.txt            # Management of Diabetes
+  ├── SymptomsandDiagnosisofDiabetes.txt    # Symptoms and Diagnosis
 
-├── doc4.txt            # Complications of Diabetes
+  ├── ManagementofDiabetes.txt              # Management of Diabetes
+
+  ├── ComplicationsofDiabetes.txt           # Complications of Diabetes
 
 ├── requirements.txt    # Python dependencies
 
@@ -78,13 +80,13 @@ Open the app in your browser and ask diabetes-related questions.
 
 # 📘 Documents Included
 
-doc1.txt – Introduction to Diabetes
+IntroductiontoDiabetes.txt – Introduction to Diabetes
 
-doc2.txt – Symptoms and Diagnosis
+SymptomsandDiagnosisofDiabetes.txt – Symptoms and Diagnosis
 
-doc3.txt – Management of Diabetes
+ManagementofDiabetes.txt – Management of Diabetes
 
-doc4.txt – Complications of Diabetes
+ComplicationsofDiabetes.txt – Complications of Diabetes
 
 # ⚠️ Disclaimer
 
